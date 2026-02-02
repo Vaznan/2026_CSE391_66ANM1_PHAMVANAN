@@ -8,33 +8,33 @@ Bài 03
 
 
 
-Mô tả
+Mô tả:
 
 
 
-Xây dựng bảng HTML hiển thị kết quả thi của sinh viên theo đúng cấu trúc đề bài.
+- Xây dựng bảng HTML hiển thị kết quả thi của sinh viên theo đúng cấu trúc đề bài.
 
-Bảng bao gồm thông tin sinh viên, điểm các bài Quiz, điểm Exam, 2nd Exam và Final Grade.
+- Bảng bao gồm thông tin sinh viên, điểm các bài Quiz, điểm Exam, 2nd Exam và Final Grade.
 
-Bài tập không sử dụng CSS, toàn bộ giao diện được trình bày bằng HTML thuần.
-
-
-
-Kỹ thuật sử dụng
+- Bài tập không sử dụng CSS, toàn bộ giao diện được trình bày bằng HTML thuần.
 
 
 
-HTML5
+Kỹ thuật sử dụng:
 
 
 
-Thẻ `<table>`, `<tr>`, `<th>`, `<td>`
+- HTML5
 
 
 
-Thuộc tính `rowspan`, `colspan`
+- Thẻ `<table>`, `<tr>`, `<th>`, `<td>`
 
 
 
-Thuộc tính bảng: `border`, `cellpadding`, `cellspacing`
+- Thuộc tính `rowspan`, `colspan`
+
+
+
+- Thuộc tính bảng: `border`, `cellpadding`, `cellspacing`
 
