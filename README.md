@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Bài tập môn CSE391 – Lập trình Web cơ bản</b><br>
+  <b>Môn học: CSE391 – Lập trình Web cơ bản</b><br>
   Sinh viên: <b>Phạm Văn An</b> • Năm học: <b>2026</b>
 </p>
 
@@ -15,39 +15,40 @@
 
 ## 📌 Giới thiệu
 
-Repository này chứa **các bài tập thực hành môn CSE391**, tập trung vào việc xây dựng giao diện web bằng **HTML, CSS và JavaScript**.  
-Mục tiêu là rèn luyện tư duy cấu trúc HTML, trình bày dữ liệu và từng bước làm quen với lập trình web hiện đại.
+Repository này được sử dụng để lưu trữ **các bài tập và sản phẩm thực hành môn CSE391 – Lập trình Web cơ bản**.  
+Môn học giúp sinh viên tiếp cận và rèn luyện các kỹ năng nền tảng trong phát triển web, từ xây dựng giao diện đến xử lý tương tác người dùng.
+
+Nội dung học tập tập trung vào **3 ngôn ngữ cốt lõi của Web**:
+- **HTML** – Xây dựng cấu trúc nội dung
+- **CSS** – Trình bày và thiết kế giao diện
+- **JavaScript** – Tạo tương tác và xử lý logic phía trình duyệt
 
 ---
 
-## 🧩 Bài 03 – Bảng kết quả thi sinh viên
+## 🎯 Mục tiêu môn học
 
-### 🎯 Mục tiêu
-- Xây dựng **bảng HTML** hiển thị kết quả thi của sinh viên
-- Trình bày đúng cấu trúc theo yêu cầu đề bài
-- Dữ liệu rõ ràng, dễ đọc, đúng chuẩn học thuật
-
----
-
-### 🧾 Nội dung bảng
-Bảng kết quả bao gồm các thông tin:
-- 👤 Thông tin sinh viên
-- 📝 Điểm **Quiz**
-- 📄 Điểm **Exam**
-- 📄 Điểm **2nd Exam**
-- 🏆 **Final Grade**
+- Hiểu và sử dụng đúng **cấu trúc HTML**
+- Biết cách **trình bày giao diện bằng CSS**
+- Làm quen với **JavaScript cơ bản** trong web
+- Xây dựng được các trang web tĩnh và tương tác đơn giản
+- Chuẩn bị nền tảng cho các môn học web nâng cao
 
 ---
 
 ## 🛠️ Công nghệ sử dụng
 
-| Công nghệ | Mô tả |
-|---------|------|
-| 🌐 **HTML5** | Xây dựng cấu trúc nội dung |
-| 🎨 **CSS3** | Trang trí giao diện, căn chỉnh bảng |
-| ⚙️ **JavaScript** | (Nếu có) xử lý logic và tương tác |
+| Công nghệ | Vai trò |
+|---------|--------|
+| 🌐 **HTML5** | Xây dựng cấu trúc và nội dung trang web |
+| 🎨 **CSS3** | Định dạng, bố cục và trang trí giao diện |
+| ⚙️ **JavaScript** | Xử lý logic, sự kiện và tương tác |
 
 ---
 
 ## 📂 Cấu trúc thư mục
 
+2026_CSE391_66ANM1_PHAMVANAN/
+└──Baithuchanh01/
+    ├── Bai3.html
+    ├── Bai4.html
+    └── Bai5.html
